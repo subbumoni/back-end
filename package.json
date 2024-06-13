@@ -1,0 +1,11 @@
+{
+  "name": "nodejs.back",
+  "version": "1.0.0",
+  "description": "file system releted task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subbu",
+  "license": "MIT"
+}
